@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "boxicons": "^2.1.4",
+    "io": "^1.5.3",
+    "react-draggable": "^4.4.6",
+    "socket-io": "^1.0.0",
+    "socket.io-client": "^4.8.1"
+  }
+}
