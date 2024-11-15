@@ -494,7 +494,3 @@ def register():
 
 if __name__ == "__main__":
     socketio.run(app, host='0.0.0.0', port=8000, debug=True, allow_unsafe_werkzeug=True)
-
-# add progress to frontend, integrate with backend
-# after detection display the image on website
-# add images to archive and display their data
