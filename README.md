@@ -5,7 +5,7 @@
 To run this project, you need to have Python and Node.js installed on your computer.
 
 ### 1. Create the Database
-- Use the `notes.sql` file to create the database.
+- Use the `obj_det.sql` file to create the database.
 - A default account with the email `admin@gmail.com`, user `admin` and password `admin123` is already created.
 - You can create your own account.
 
@@ -37,6 +37,7 @@ To run this project, you need to have Python and Node.js installed on your compu
     ```bash
     npm install
     ```
+- Install the AI Model and put it in the `root` folder
 
 ### 4. Run the Project
 - In the `ObjectDetection` folder, start the development server:
