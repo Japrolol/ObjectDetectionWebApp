@@ -38,6 +38,7 @@ To run this project, you need to have Python and Node.js installed on your compu
     npm install
     ```
 - Install the AI Model and put it in the `root` folder
+- Download [Here](https://www.kaggle.com/models/google/faster-rcnn-inception-resnet-v2)
 
 ### 4. Run the Project
 - In the `ObjectDetection` folder, start the development server:
